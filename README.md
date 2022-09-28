@@ -5,4 +5,4 @@
 
 ## Click Through Rate Prediction
 
-* [Deep Interest Network(2018)] : [논문 리뷰](https://yhyuntak.github.io/click-through%20rate%20prediction/%EB%85%BC%EB%AC%B8%20%EB%A6%AC%EB%B7%B0/Deep_interest_Network/)/[tensorflow 예정]()
+* [Deep Interest Network(2018)] : [[논문 리뷰]](https://yhyuntak.github.io/click-through%20rate%20prediction/%EB%85%BC%EB%AC%B8%20%EB%A6%AC%EB%B7%B0/Deep_interest_Network/)/[tensorflow 예정]()
