@@ -5,7 +5,7 @@
 
 ## Click Through Rate Prediction
 
-* [Deep Interest Network(2018)](https://arxiv.org/abs/1706.06978?context=cs) : [[논문 리뷰](https://yhyuntak.github.io/click-through%20rate%20prediction/%EB%85%BC%EB%AC%B8%20%EB%A6%AC%EB%B7%B0/Deep_interest_Network/)] / [[tensorflow 예정]()]
+* [논문] [Deep Interest Network(2018)](https://arxiv.org/abs/1706.06978?context=cs) : [[리뷰](https://yhyuntak.github.io/click-through%20rate%20prediction/%EB%85%BC%EB%AC%B8%20%EB%A6%AC%EB%B7%B0/Deep_interest_Network/)] / [[tensorflow 예정]()]
 
 
 ## NLP
